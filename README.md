@@ -42,7 +42,7 @@ MSc SEDS students will receive 6 ECTS for the course. MSc Economics students wil
 
 ## License
 
-Licensed under the [Apache License 2.0](../blob/master/LICENSE)
+Licensed under the [Apache License 2.0](../master/LICENSE)
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
