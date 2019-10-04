@@ -38,3 +38,15 @@ MSc SEDS students will receive 6 ECTS for the course. MSc Economics students wil
 | 03 | Importing, formatting and plotting data | Wednesday, October 16, 03:00 pm | Thursday, October 17, 09:59 am |
 | 04 | Object-oriented programming | Thursday, October 17, 03:00 pm | Friday, October 18, 09:59 am |
 | 05 | Data streaming and parsing | Friday, October 18, 03:00 pm | Friday, October 25, 09:59 am |
+
+
+## License
+
+Licensed under the [Apache License 2.0](../blob/master/LICENSE)
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
